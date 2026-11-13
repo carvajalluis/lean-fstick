@@ -1,0 +1,6 @@
+{
+  "name": "Nocturne Fire Launcher",
+  "description": "10-foot Firestick TV launcher with app-granted watch history aggregation and live IMDb suggestion discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
